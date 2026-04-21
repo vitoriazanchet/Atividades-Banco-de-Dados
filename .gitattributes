@@ -1,1 +1,2 @@
 *.sql lingist-detectable=true
+*.sql lingist-documentation=false
