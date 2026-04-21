@@ -1,2 +1,3 @@
-*.sql lingist-detectable=true
-*.sql lingist-documentation=false
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+*.sql linguist-documentation=false
